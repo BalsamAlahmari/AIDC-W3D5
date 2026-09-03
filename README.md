@@ -18,6 +18,8 @@ For this run:
 - **p95 latency at knee:** `1.8443 s`
 - **Errors:** `0`
 
+<img width="889" height="490" alt="image" src="https://github.com/user-attachments/assets/71a6eb7d-5b95-4253-8112-38bf60a4496b" />
+
 ## Verification step:
 levels: 5, concurrencies: [1, 2, 4, 8, 16], total errors: 0
 capacity-note.md: all fields filled
